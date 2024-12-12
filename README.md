@@ -1,5 +1,9 @@
-**The Environmental Impact Analyzer You've Been Looking For**  
-🌍 **Analyze products with lightning-fast AI for a cleaner tomorrow.**  
+
+
+# Environmental Impact Analyzer  
+🌍 **Analyze products with lightning-fast AI for a cleaner tomorrow.**
+
+![Logo](logo.png)
 
 This Next.js full-stack app evaluates the environmental impact of consumer products by analyzing product descriptions, manufacturing details, and supply chain information to generate an eco-footprint score.  
 
@@ -9,6 +13,12 @@ This Next.js full-stack app evaluates the environmental impact of consumer produ
 - Intuitive and modern interface  
 
 Contribute to a sustainable future by helping consumers make informed choices! 🚀  
+
+---
+
+### 📺 **Preview**
+
+![App Preview](preview.gif)
 
 ---
 
