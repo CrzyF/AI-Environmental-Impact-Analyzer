@@ -3,7 +3,7 @@
 # Environmental Impact Analyzer  
 🌍 **Analyze products with lightning-fast AI for a cleaner tomorrow.**
 
-![Logo](logo.png)
+![Logo](https://github.com/CrzyF/AI-Environmental-Impact-Analyzer/blob/main/public/logo.png)
 
 This Next.js full-stack app evaluates the environmental impact of consumer products by analyzing product descriptions, manufacturing details, and supply chain information to generate an eco-footprint score.  
 
@@ -18,7 +18,7 @@ Contribute to a sustainable future by helping consumers make informed choices! �
 
 ### 📺 **Preview**
 
-![App Preview](preview.gif)
+![App Preview](https://github.com/CrzyF/AI-Environmental-Impact-Analyzer/blob/main/public/preview.gif)
 
 ---
 
